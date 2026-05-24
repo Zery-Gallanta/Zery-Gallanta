@@ -81,12 +81,12 @@ Versatile **Software Engineer & Mobile Developer** with a proven track record in
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/Zery-Gallanta">
-          <img src="https://github-readme-stats.vercel.app/api?username=Zery-Gallanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=C9D1D9" width="100%" alt="Zery's GitHub Stats" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zery-Gallanta&theme=tokyonight" width="100%" alt="Zery's GitHub Details" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Zery-Gallanta">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zery-Gallanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=C9D1D9" width="100%" alt="Zery's Top Languages" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zery-Gallanta&theme=tokyonight" width="100%" alt="Zery's Top Languages" />
         </a>
       </td>
     </tr>
