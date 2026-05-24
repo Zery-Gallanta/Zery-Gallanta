@@ -18,10 +18,6 @@
     </a>
     <img src="https://img.shields.io/badge/Bandung%2C%20ID-12100E?style=for-the-badge&logo=google-maps&logoColor=00F2FE" alt="Location" />
   </p>
-
-  <h4>
-    📈 Profile Views: <img src="https://komarev.com/normal-badge/?username=Zery-Gallanta&color=00f2fe&style=flat-square" alt="Visitor Count" />
-  </h4>
 </div>
 
 ---
