@@ -114,8 +114,3 @@ Versatile **Software Engineer & Mobile Developer** with a proven track record in
 > **Note:** To enable the snake animation above on your live profile, make sure the workflow `.github/workflows/snake.yml` is pushed to your main branch!
 
 
----
-
-<div align="center">
-  <sub>Designed with 🌌 by Antigravity AI</sub>
-</div>
