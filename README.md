@@ -113,24 +113,9 @@ Versatile **Software Engineer & Mobile Developer** with a proven track record in
 
 > **Note:** To enable the snake animation above on your live profile, make sure the workflow `.github/workflows/snake.yml` is pushed to your main branch!
 
----
-
-### 🛠️ How to Deploy This to Your Profile:
-1. Create a public repository on GitHub named exactly **`Zery-Gallanta`**.
-2. Initialize it with a `README.md` (or replace the existing one with this file).
-3. Create a folder named `assets` in the repository and upload `banner.png` into it.
-4. **Enable the Contribution Snake & Activity Feed:**
-   - Push both `.github/workflows/snake.yml` and `.github/workflows/update-activity.yml` from this local directory to your GitHub repo.
-   - Go to your repository settings -> **Actions** -> **General** -> Under **Workflow permissions**, select **Read and write permissions**, then click **Save**.
-   - Go to the **Actions** tab on GitHub, click **Generate Snake**, and click **Run workflow**. Do the same for **Update Activity Feed**.
-   - The snake animation and latest activities will start updating automatically!
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Developer Quote" />
-  
-  <br/>
-  
   <sub>Designed with 🌌 by Antigravity AI</sub>
 </div>
