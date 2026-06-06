@@ -23,7 +23,9 @@
 ---
 
 ### 🚀 Professional Summary
-Versatile **Software Engineer & Mobile Developer** with a proven track record in delivering end-to-end solutions, from responsive mobile interfaces (**Flutter**) to **IoT** and **Computer Vision** integrations. Thrives in agile environments, solving complex hardware-software integration problems, and building scalable systems. Currently seeking a challenging internship opportunity to drive immediate technical impact.
+Versatile **Software Engineer & Mobile Developer** with a proven track record in delivering end-to-end solutions, from responsive mobile interfaces (**Flutter**) to **IoT** and **Computer Vision** integrations.
+
+✨ **Vibe Coder** at heart — leveraging advanced AI pair-programming (**GitHub Copilot, Claude AI, Antigravity**) to build, iterate, and deploy modern software at lightning speed. Thrives in agile environments, solving complex hardware-software integration problems, and building scalable systems. Currently seeking a challenging internship opportunity to drive immediate technical impact.
 
 ---
 
