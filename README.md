@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://zery-gallanta.vercel.app/">
-    <img src="assets/banner.png" width="100%" alt="Zery Gallanta Sasongko Banner" />
-  </a>
-
-  <br/><br/>
-
   <p>
     <img src="https://img.shields.io/badge/SYS_%2F%2F_2026-ACTIVE-09090b?style=flat-square&labelColor=09090b&color=00E5FF" alt="System Active" />
     <img src="https://img.shields.io/badge/LOCATION-INDONESIA_(UTC%2B7)-09090b?style=flat-square&labelColor=09090b&color=27272a" alt="Location" />
