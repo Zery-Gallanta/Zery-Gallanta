@@ -224,6 +224,6 @@
   <br/><br/>
 
   <a href="https://github.com/Zery-Gallanta">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zery-Gallanta&bg_color=09090b&color=a1a1aa&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Zery's Contribution Graph" />
+    <img src="https://raw.githubusercontent.com/Zery-Gallanta/Zery-Gallanta/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
   </a>
 </div>
