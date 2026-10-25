@@ -52,7 +52,7 @@
   <tr>
     <td valign="top" width="60%">
       <h4>🏢 PT Petrokimia Gresik — <code>IT Engineering Intern</code></h4>
-      <p><sub><b>2024 – Present</b> • <code>STATUS: ACTIVE</code> • <code>ENTERPRISE NODE</code></sub></p>
+      <p><sub><b>Mar 2026 – Jun 2026</b> • <code>STATUS: COMPLETED</code> • <code>ENTERPRISE NODE</code></sub></p>
       <p>
         Overhauled enterprise frontend workflows and restructured internal engineering dashboards using <b>Flutter</b> and <b>React.js</b>, significantly cutting operational latency and standardizing data processing across cross-divisional corporate teams.
       </p>
